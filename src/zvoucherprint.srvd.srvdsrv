@@ -1,0 +1,4 @@
+@EndUserText.label: 'VOUCHERPRINT'
+define service ZVOUCHERPRINT {
+  expose ZVOUCHERPRINT_F4;
+}
